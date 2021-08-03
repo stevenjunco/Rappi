@@ -1,0 +1,8 @@
+Rappi\StepDefinitions\PutAPIStepDefinitions.class
+Rappi\Methods\GetAPI.class
+Rappi\CucumberTestSuite.class
+Rappi\Methods\PutAPI.class
+Rappi\Locators\LocalizadorRespuesta.class
+Rappi\StepDefinitions\PostAPIStepDefinitions.class
+Rappi\StepDefinitions\GetAPIStepDefinitions.class
+Rappi\Methods\PostAPI.class

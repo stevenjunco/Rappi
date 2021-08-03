@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Prueba de api https://reqres.in/","Probando el método GET del API","SUCCESS","2021-08-02T21:37:12.364-05:00[America/Bogota]","0.0","3.3"
+"Prueba de api https://reqres.in/","Probando el método POST del API","SUCCESS","2021-08-02T21:37:15.668-05:00[America/Bogota]","0.0","1.45"
+"Prueba de api https://reqres.in/","Probando el método PUT del API","SUCCESS","2021-08-02T21:37:17.123-05:00[America/Bogota]","0.0","1.24"

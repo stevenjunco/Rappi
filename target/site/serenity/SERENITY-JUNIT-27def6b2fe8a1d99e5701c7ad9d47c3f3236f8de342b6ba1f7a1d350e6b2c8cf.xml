@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Prueba de api https://reqres.in/" skipped="0" tests="9" time="5.99" timestamp="2021-08-02 09:37:12"><testcase name="Probando el método GET del API"/><testcase name="Probando el método POST del API"/><testcase name="Probando el método PUT del API"/></testsuite>
